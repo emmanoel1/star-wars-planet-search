@@ -37,6 +37,6 @@ Uma lista com filtros de planetas do universo de Star Wars Consumindo uma API e 
 
 # Apresentando o Projeto:
 
-<p align="center">&nbsp;<img src="./STARWARS2.gif" alt="Using the Project Star Wars Planet Search GIF" /></p>
+<p align="center">&nbsp;<img src="./STARWARS.gif" alt="Using the Project Star Wars Planet Search GIF" /></p>
 
 ---
