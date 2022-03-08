@@ -6,17 +6,27 @@ function NumberInput() {
   const { saveInputNumber } = useContext(PlanetsContext);
 
   return (
-    <input
-      className="input is-success is-rounded is-small"
-      type="number"
-      data-testid="value-filter"
-      placeholder="Digite Um Número"
-      value={ numberValue }
-      onChange={ ({ target: { value } }) => {
-        setNumberValue(value);
-        saveInputNumber(value);
-      } }
-    />
+    <div className="input_number_box">
+      <input
+        className="
+      input
+      is-success
+      is-rounded
+      is-medium
+      is-flex
+      mt-2
+      has-text-centered
+      "
+        type="number"
+        data-testid="value-filter"
+        placeholder="Número"
+        value={ numberValue }
+        onChange={ ({ target: { value } }) => {
+          setNumberValue(value);
+          saveInputNumber(value);
+        } }
+      />
+    </div>
   );
 }
 

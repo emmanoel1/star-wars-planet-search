@@ -5,7 +5,7 @@ function CompareSelector() {
   const { saveCompare } = useContext(PlanetsContext);
 
   return (
-    <div className="select is-primary is-rounded is-medium">
+    <div className="selector1 select is-primary is-medium ml-2">
       <select
         data-testid="comparison-filter"
         id="compare"

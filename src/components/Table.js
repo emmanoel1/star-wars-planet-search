@@ -7,7 +7,12 @@ function Table() {
   return (
     <div className="table-container">
       <table
-        className="table is-bordered is-fullwidth has-background-success is-hoverable"
+        className="
+        table
+        is-bordered
+        is-hoverable
+        has-background-success
+        "
       >
         <thead className="thead">
           <tr className="tr">

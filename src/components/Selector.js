@@ -5,7 +5,14 @@ function Selector() {
   const { saveColumn, renderColumns } = useContext(PlanetsContext);
 
   return (
-    <div className="select is-primary is-rounded is-medium">
+    <div
+      className="
+      selector2
+      select
+      is-primary
+      is-medium
+      "
+    >
       <select
         data-testid="column-filter"
         id="column"

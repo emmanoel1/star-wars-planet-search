@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  padding: 5%;
+}
+
+.img_box {
+  display: block;
+  margin: -45px;
+  margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.selector2 {
+  width: 165px;
+}
+
+.input2 {
+  width: 27%;
+}
+
+.input1 {
+  width: 180px;
+}
+
+.input_number_box {
+  margin: auto;
+  padding: 10px;
+  width: 15%;
+}
+
+.btn {
+  margin: auto;
+  padding: 10px;
+  width: 9%;
+}
+
+.table-container {
+  white-space: nowrap;
+}

@@ -6,7 +6,17 @@ function FilterNumberBtn() {
 
   return (
     <button
-      className="button is-success is-rounded is-small"
+      className="
+      btn
+      button
+      is-success
+      is-rounded
+      is-medium
+      is-flex
+      mt-2
+      mb-4
+      is-centered
+      "
       type="button"
       data-testid="button-filter"
       placeholder="Digite Um Número"
