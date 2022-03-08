@@ -45,8 +45,8 @@ Uma lista com filtros de planetas do universo de Star Wars Consumindo uma API e 
 
 <img align="left" src="https://media.giphy.com/media/nuRfh8wGUkpAzA7PTP/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 1" />
 
-<img align="right" src="https://media.giphy.com/media/nzntIFqrNst2e7mVVX/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 2" />
+<img align="left" src="https://media.giphy.com/media/nzntIFqrNst2e7mVVX/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 2" />
 
-<img src="https://media.giphy.com/media/Jq9qXHn6qwOvXmVo9k/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 3" />
+<img align="left" src="https://media.giphy.com/media/Jq9qXHn6qwOvXmVo9k/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 3" />
 
 ---
