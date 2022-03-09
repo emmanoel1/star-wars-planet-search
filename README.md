@@ -39,12 +39,12 @@ Uma lista com filtros de planetas do universo de Star Wars Consumindo uma API e 
 
 * Filtrando Por Nome:
 
-<p>&nbsp;<img align="left" src="https://media.giphy.com/media/hQOTNkRM5ugCwj9qIg/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by name" /></p>
+<p align="left"><img src="https://media.giphy.com/media/hQOTNkRM5ugCwj9qIg/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by name" /></p>
 
 * Filtrando Categorias Por Número:
 
-<p>&nbsp;<img align="left" src="https://media.giphy.com/media/nuRfh8wGUkpAzA7PTP/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 1" /></p>
+<p align="left"><img src="https://media.giphy.com/media/nuRfh8wGUkpAzA7PTP/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 1" /></p>
 
-<p>&nbsp;<img align="left" src="https://media.giphy.com/media/nzntIFqrNst2e7mVVX/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 2" /></p>
+<p align="right"><img src="https://media.giphy.com/media/nzntIFqrNst2e7mVVX/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 2" /></p>
 
-<p>&nbsp;<img align="left" src="https://media.giphy.com/media/Jq9qXHn6qwOvXmVo9k/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 3" /></p>
+<p align="left"><img src="https://media.giphy.com/media/Jq9qXHn6qwOvXmVo9k/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 3" /></p>
