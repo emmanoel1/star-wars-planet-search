@@ -1,4 +1,5 @@
 # Boas vindas ao projeto Starwars Planets Search!
+<img src="./src/components/StarWars.png" alt="Star Wars Movie Logo" />
 
 ---
 
