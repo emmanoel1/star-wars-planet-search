@@ -50,4 +50,16 @@ Uma lista com filtros de planetas do universo de Star Wars Consumindo uma API e 
 
 ---
 
-- [ ]
+### Lista de Afazeres / To-do List:
+
+- [ ] Remover a pasta Node Modules.
+- [ ] Remover a feature que Deleta 1 Dropdown item a cada click.
+- [ ] Melhorar a acessibilidade.
+- [ ] Responsividade.
+- [ ] Melhorar a pesquisa e filtragem.
+- [ ] Mostrar mais planetas adaptando a resposta da API.
+- [ ] Refatorar mais.
+- [ ] Melhorar a qualidade do conteúdo em GIF.
+- [ ] Buscar e pensar em novas ideias para features, usabilidade e correções.
+
+<p align='center'>Bye 🖐️</p>
