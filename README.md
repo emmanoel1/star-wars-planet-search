@@ -60,6 +60,7 @@ Uma lista com filtros de planetas do universo de Star Wars Consumindo uma API e 
 - [ ] Mostrar mais planetas adaptando a resposta da API.
 - [ ] Refatorar mais.
 - [ ] Melhorar a qualidade do conteúdo em GIF.
+- [ ] Implementar os testes.
 - [ ] Buscar e pensar em novas ideias para features, usabilidade e correções.
 
 <p align='center'>Bye 🖐️</p>
