@@ -16,8 +16,6 @@ Nesse projeto, Foram ultilizadas as tecnologias:
 
 ---
 
-# Entregáveis
-
 ## Sobre o que é o projeto ?
 
 Uma lista com filtros de planetas do universo de Star Wars Consumindo uma API e usando **Context API e Hooks** para controlar os estados globais.
