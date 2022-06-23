@@ -46,7 +46,8 @@ Uma lista com filtros de planetas do universo de Star Wars Consumindo uma API e 
 <p>&nbsp;<img src="https://media.giphy.com/media/nzntIFqrNst2e7mVVX/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 2" /></p>
 <p>&nbsp;<img src="https://media.giphy.com/media/Jq9qXHn6qwOvXmVo9k/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 3" /></p>
 
-/* ---
+<!---
+---
 
 ### Lista de Afazeres / To-do List:
 
@@ -62,4 +63,4 @@ Uma lista com filtros de planetas do universo de Star Wars Consumindo uma API e 
 - [ ] Buscar e pensar em novas ideias para features, usabilidade e correções.
 
 <p align='center'>Bye 🖐️</p>
-*/
+--->
