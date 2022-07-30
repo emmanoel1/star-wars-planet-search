@@ -22,6 +22,7 @@ Uma lista com filtros de planetas do universo de Star Wars Consumindo a SWAPI, u
 
 ## Sobre a API
 https://swapi.dev/
+<br>
 A API de Star Wars, ou "swapi" (Swah-pee) é a primeira fonte de dados quantificada e acessível por programação do mundo para todos os dados do universo canônico de Guerra nas Estrelas!
 
 ---
