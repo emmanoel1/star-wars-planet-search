@@ -18,7 +18,11 @@ Nesse projeto, Foram ultilizadas as tecnologias:
 
 ## Sobre o que é o projeto ?
 
-Uma lista com filtros de planetas do universo de Star Wars Consumindo uma API e usando **Context API e Hooks** para controlar os estados globais.
+Uma lista com filtros de planetas do universo de Star Wars Consumindo a SWAPI, uma API do star wars e usando **Context API e Hooks** para controlar os estados globais.
+
+## Sobre a API
+https://swapi.dev/
+A API de Star Wars, ou "swapi" (Swah-pee) é a primeira fonte de dados quantificada e acessível por programação do mundo para todos os dados do universo canônico de Guerra nas Estrelas!
 
 ---
 
