@@ -53,22 +53,3 @@ A API de Star Wars, ou "swapi" (Swah-pee) é a primeira fonte de dados quantific
 <p><img src="https://media.giphy.com/media/nuRfh8wGUkpAzA7PTP/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 1" /></p>
 <p>&nbsp;<img src="https://media.giphy.com/media/nzntIFqrNst2e7mVVX/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 2" /></p>
 <p>&nbsp;<img src="https://media.giphy.com/media/Jq9qXHn6qwOvXmVo9k/giphy.gif" alt="Project Star Wars Planet Search GIF filtering by number part 3" /></p>
-
-<!---
----
-
-### Lista de Afazeres / To-do List:
-
-- [ ] Remover a pasta Node Modules.
-- [ ] Remover a feature que Deleta 1 Dropdown item a cada click.
-- [ ] Melhorar a acessibilidade.
-- [ ] Responsividade.
-- [ ] Melhorar a pesquisa e filtragem.
-- [ ] Mostrar mais planetas adaptando a resposta da API.
-- [ ] Refatorar mais.
-- [ ] Melhorar a qualidade do conteúdo em GIF.
-- [ ] Implementar os testes.
-- [ ] Buscar e pensar em novas ideias para features, usabilidade e correções.
-
-<p align='center'>Bye 🖐️</p>
---->
