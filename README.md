@@ -17,7 +17,7 @@ Nesse projeto, Foram ultilizadas as tecnologias:
 ---
 
 ## Quer Testar o App?
-https://star-wars-planet-search.pages.dev/
+https://emmanoel1-star-wars-planets.pages.dev/
 
 ## Sobre o que é o projeto ?
 
