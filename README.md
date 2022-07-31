@@ -37,6 +37,9 @@ A API de Star Wars, ou "swapi" (Swah-pee) é a primeira fonte de dados quantific
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd star-wars-planets-search`
 
+2. Instale as dependências
+  * `npm install`
+
 2. Inicialize o projeto
     * `npm start` (uma nova página deve abrir no seu navegador com o projeto)
 
