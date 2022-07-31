@@ -15,9 +15,10 @@ Nesse projeto, Foram ultilizadas as tecnologias:
 * _Bulma CSS_.
 
 ---
-<!---
+
 ## Quer Testar o App?
---->
+https://star-wars-planet-search.pages.dev/
+
 ## Sobre o que é o projeto ?
 
 Uma lista com filtros de planetas do universo de Star Wars Consumindo a SWAPI, uma API do star wars e usando **Context API e Hooks** para controlar os estados globais.
